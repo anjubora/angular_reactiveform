@@ -16,7 +16,7 @@ It is using the prebuilt classes of angular for doing the validation.
 
 
 
-
+## Screenshot of form
 
 
  ![registration](https://user-images.githubusercontent.com/44833963/56578463-563bf280-65eb-11e9-8d0b-711691b83e69.png)
