@@ -7,12 +7,12 @@ It is a simple reactive form of angular which is simply doing the registration.
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## form validation
+## Form validation
 
 This form do the simple validation on the client side before going to the server.
 It is using the prebuilt classes of angular for doing the validation.
 
-## screenshot of form
+##*****************************************************************************************************************************
 
  ![registration](https://user-images.githubusercontent.com/44833963/56578463-563bf280-65eb-11e9-8d0b-711691b83e69.png)
 
